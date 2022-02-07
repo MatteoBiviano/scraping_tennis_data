@@ -46,6 +46,3 @@ scrapy <- function(name){
   }
   return(scraped_data)
 }
-add <- function(val){
-  return(val)
-}
